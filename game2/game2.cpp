@@ -5,6 +5,7 @@
 #include <string>
 #include <iostream>
 using namespace std;
+class CDragon;
 class CWolf;
 class CGhost;
 class CCreature;
